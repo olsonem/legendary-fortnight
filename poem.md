@@ -7,9 +7,9 @@
 
 I will **arise** and go now, and go to *Innisfree,*
 
-And a small cabin build there, of clay and wattles made:
+And a [small cabin](http://housedesignideas.us/free-small-cabin-floor-plans/) build there, of clay and wattles made:
 
-Nine bean-rows will I have there, a hive for the honeybee,
+Nine bean-rows will I have there, a [hive for the honeybee,](https://jardindesigndotorg1.files.wordpress.com/2012/10/dsc02062.jpg)
 
 And live alone in the bee-loud glade.
 
@@ -17,7 +17,7 @@ And live alone in the bee-loud glade.
 
 Dropping from the veils of the morning to where the cricket sings;
 
-There midnight's all a glimmer, and noon a purple glow,
+There midnight's all a glimmer, and noon a <font color="#800080">purple</font> glow,
 
 And evening full of the linnet's wings.
 
@@ -28,5 +28,7 @@ I hear lake water lapping with low sounds by the shore;
 While I stand on the roadway, or on the pavements grey,
 
 I hear it in the deep heart's core.
+
+
 
 [link](http://public-domain-poetry.com/william-butler-yeats/lake-isle-of-innisfree-187) to source 
