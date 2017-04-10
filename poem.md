@@ -1,7 +1,7 @@
 
 # The Lake Isle Of Innisfree
-
-    ## By William Butler Yeats
+     
+  #### By William Butler Yeats
 
 
 
@@ -29,4 +29,4 @@ While I stand on the roadway, or on the pavements grey,
 
 I hear it in the deep heart's core.
 
-http://www.public-domain-poetry.com/william-butler-yeats/lake-isle-of-innisfree-187
+[link] to source (http://public-domain-poetry.com/william-butler-yeats/lake-isle-of-innisfree-187)
