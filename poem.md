@@ -17,7 +17,7 @@ And live alone in the bee-loud glade.
 
 Dropping from the veils of the morning to where the cricket sings;
 
-There midnight's all a glimmer, and noon a <font color="#800080">purple</font> glow,
+There midnight's all a glimmer, and noon a <font color=purple>purple</font> glow,
 
 And evening full of the linnet's wings.
 
