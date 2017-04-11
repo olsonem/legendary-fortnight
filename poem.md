@@ -19,7 +19,7 @@ Dropping from the veils of the morning to where the [cricket sings](https://yout
 
 There midnight's all a :sparkles: glimmer :sparkles:, and noon a purple glow,
 
-And evening full of the linnet's wings.
+And evening full of the [linnet's wings.](https://www.youtube.com/watch?v=XTsJ_1I-jL4)
 
 **I will _arise_ and go now,** for always night and day
 
